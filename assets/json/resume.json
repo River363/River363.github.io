@@ -26,25 +26,14 @@
     {
       "name": "TBD",
       "position": "TBD",
-      "url": "TBD",
-      "startDate": "TBD",
-      "endDate": "TBD",
-      "summary": "TBD",
-      "highlights": ["TBD"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "TBD",
-      "location": "TBD",
-      "position": "TBD",
       "url": "",
-      "startDate": "TBD",
-      "endDate": "TBD",
+      "startDate": "",
+      "endDate": "",
       "summary": "TBD",
       "highlights": ["TBD"]
     }
   ],
+  
   "education": [
     {
       "institution": "University of Science and Technology of Hanoi",
@@ -58,29 +47,21 @@
       "courses": ["Machine Learning", "Deep Leaerning", "Computer Vision"]
     }
   ],
-  "awards": [
-    {
-      "title": "TBD",
-      "date": "TBD",
-      "awarder": "TBD",
-      "url": "",
-      "summary": "TBD"
-    }
-  ],
+  
   "certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "url": "",
+      "icon": "fa-solid fa-laptop-code"
     }
   ],
   "publications": [
     {
       "name": "TBD",
       "publisher": "TBD",
-      "releaseDate": "TBD",
+      "releaseDate": "",
       "url": "",
       "summary": "TBD"
     }
@@ -89,7 +70,7 @@
     {
       "name": "Python",
       "level": "Fluent",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-brands fa-python",
       "keywords": [
         "Numpy",
         "Matplotlib",
@@ -98,8 +79,29 @@
         "Jupyter Notebook",
         "Pytorch"
       ]
+    },
+    {
+      "name": "Linux",
+      "level": "Fluent",
+      "icon": "fa-brands fa-linux",
+      "keywords": [
+        "Ubuntu",
+        "Debian",
+        "Arch"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Fluent",
+      "icon": "fa-brands fa-docker"
+    },
+    {
+      "name": "Git",
+      "level": "Fluent",
+      "icon": "fa-brands fa-git"
     }
   ],
+
   "languages": [
     {
       "language": "Vietnamese",
@@ -120,23 +122,42 @@
   "interests": [
     {
       "name": "Reading Books",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-book-open",
       "keywords": [
         "Novel",
         "Sci-fi",
         "History"
+      ]
+    },
+    {
+      "name": "Playing Music Instruments",
+      "icon": "fa-solid fa-piano",
+      "keywords": [
+        "Classical Music",
+        "Chopin",
+        "Beethoven"
+      ]
+    },
+    {
+      "name": "Playing Games",
+      "icon": "fa-solid fa-gamepad",
+      "keywords": [
+        "Elden Ring",
+        "Sekiro",
+        "Dark Soul", 
+        "League of Legends"
       ]
     }
   ],
   "references": [
     {
       "name": "Assoc. Prof. TRAN Giang Son",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-laptop-code",
       "reference": "Co-Director of ICT Department, USTH"
     },
     {
       "name": "Dr. NGHIEM Thi Phuong",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-laptop-code",
       "reference": "Researcher at ICTLab, USTH"
     }
   ],

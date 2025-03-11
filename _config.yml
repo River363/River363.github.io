@@ -42,7 +42,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -64,7 +64,7 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
@@ -194,6 +194,8 @@ exclude:
   - vendor
   - _pages\teaching.md
   - _pages\repositories.md
+  - _pages\profiles.md
+  - _pages\about_einstein.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -631,8 +633,6 @@ jsonresume:
   - education
   - publications
   - projects
-  - volunteer
-  - awards
   - certificates
   - skills
   - languages
