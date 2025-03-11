@@ -1,12 +1,12 @@
 {
-
   "basics": {
     "name": "Dao Duy Manh Ha",
     "label": "AI Engineer",
     "image": "",
     "email": "riverdao36@gmail.com",
     "phone": "+84-978-424-078",
-    "summary": "An IT guy who is interested in reading books and classical music",
+    "url": "https://p.r1verrdao.id.vn/",
+    "summary": "An IT guy who has passion for books and classical music ",
     "location": {
       "address": "31 Nguyen Chi Thanh",
       "postalCode": "100000",
@@ -14,10 +14,29 @@
       "countryCode": "VI",
       "region": "Vietnam"
     },
-
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Mạnh Hà",
+        "url": "https://www.facebook.com/ha.manh362003"
+      }
+    ]
+  },
   "work": [
     {
       "name": "TBD",
+      "position": "TBD",
+      "url": "TBD",
+      "startDate": "TBD",
+      "endDate": "TBD",
+      "summary": "TBD",
+      "highlights": ["TBD"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "TBD",
+      "location": "TBD",
       "position": "TBD",
       "url": "",
       "startDate": "TBD",
@@ -26,34 +45,19 @@
       "highlights": ["TBD"]
     }
   ],
-
-  "volunteer": [
-    {
-      "organization": "TBD",
-      "location": "TBD",
-      "position": "TBD",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "TBD",
-      "highlights": ["TBD", "TBD"]
-    }
-  ],
-
   "education": [
     {
       "institution": "University of Science and Technology of Hanoi",
       "location": "Hanoi, Vietname",
       "url": "https://usth.edu.vn",
       "area": "Information and Communication Technology",
-      "studyType": "Bachelor of Science",
-      "startDate": "2021-10-04",
-      "endDate": "2024-11-31",
+      "studyType": "Bachelor of Sciene",
+      "startDate": "2021-10-01",
+      "endDate": "2024-11-01",
       "score": "3.6",
-      "courses": ["Data Structure and Algorithm", "OOP", "Python Programming", "Image Processing", "Machine Learning", "Deep Learning", "Computer Vision"]
+      "courses": ["Machine Learning", "Deep Leaerning", "Computer Vision"]
     }
   ],
-
   "awards": [
     {
       "title": "TBD",
@@ -63,7 +67,6 @@
       "summary": "TBD"
     }
   ],
-
   "certificates": [
     {
       "name": "Machine Learning",
@@ -73,7 +76,6 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-
   "publications": [
     {
       "name": "TBD",
@@ -83,7 +85,6 @@
       "summary": "TBD"
     }
   ],
-
   "skills": [
     {
       "name": "Python",
@@ -91,41 +92,31 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Numpy",
-        "Pandas",
         "Matplotlib",
-        "Flask",
+        "Pandas",
         "Keras",
+        "Jupyter Notebook",
         "Pytorch"
-      ]
-    },
-
-    {
-      "name": "Other Tools",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Linux",
-        "Git",
-        "Docker",
-        "Postman"
       ]
     }
   ],
-
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
-
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate",
+      "icon": ""
     }
   ],
-
   "interests": [
     {
       "name": "Reading Books",
@@ -137,28 +128,25 @@
       ]
     }
   ],
-
   "references": [
     {
       "name": "Assoc. Prof. TRAN Giang Son",
       "icon": "fa-solid fa-laptop",
       "reference": "Co-Director of ICT Department, USTH"
     },
-
     {
       "name": "Dr. NGHIEM Thi Phuong",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Researcher at ICTLab, USTH"
     }
   ],
-
   "projects": [
     {
-      "name": "Image Enhancement Method",
-      "summary": "Propose a pipeline in order to enhance the quality of medical images and medical fused images",
-      "highlights": ["Image Processing", "Image Enhancement", "Image Fusion", "Deep Learning", "Optimization"],
+      "name": "Image Enhancement Method using Optimization and Deep Learning",
+      "summary": "Propose a pipeline that is able to enhance the quality of medical images and medical fused images",
+      "highlights": ["Image Processing", "Image Enhancement", "Image Fusion", "Optimization"],
       "startDate": "2024-04-01",
       "endDate": "2024-11-01"
     }
   ]
-}}
+}
