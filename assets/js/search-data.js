@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-chào-mừng-đến-với-blog-của-tôi",
+      
+        title: "Chào mừng đến với blog của tôi",
+      
+      description: "Bài viết đầu tiên chia sẻ vài suy nghĩ cá nhân.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/chao-mung-den-blog/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
