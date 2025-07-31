@@ -33,7 +33,7 @@
       "highlights": ["TBD"]
     }
   ],
-  
+
   "education": [
     {
       "institution": "University of Science and Technology of Hanoi",
@@ -47,7 +47,7 @@
       "courses": ["Machine Learning", "Deep Leaerning", "Computer Vision"]
     }
   ],
-  
+
   "certificates": [
     {
       "name": "Machine Learning",
@@ -71,24 +71,13 @@
       "name": "Python",
       "level": "Fluent",
       "icon": "fa-brands fa-python",
-      "keywords": [
-        "Numpy",
-        "Matplotlib",
-        "Pandas",
-        "Keras",
-        "Jupyter Notebook",
-        "Pytorch"
-      ]
+      "keywords": ["Numpy", "Matplotlib", "Pandas", "Keras", "Jupyter Notebook", "Pytorch"]
     },
     {
       "name": "Linux",
       "level": "Fluent",
       "icon": "fa-brands fa-linux",
-      "keywords": [
-        "Ubuntu",
-        "Debian",
-        "Arch"
-      ]
+      "keywords": ["Ubuntu", "Debian", "Arch"]
     },
     {
       "name": "Docker",
@@ -123,30 +112,17 @@
     {
       "name": "Reading Books",
       "icon": "fa-solid fa-book-open",
-      "keywords": [
-        "Novel",
-        "Sci-fi",
-        "History"
-      ]
+      "keywords": ["Novel", "Sci-fi", "History"]
     },
     {
       "name": "Playing Music Instruments",
       "icon": "fa-solid fa-piano",
-      "keywords": [
-        "Classical Music",
-        "Chopin",
-        "Beethoven"
-      ]
+      "keywords": ["Classical Music", "Chopin", "Beethoven"]
     },
     {
       "name": "Playing Games",
       "icon": "fa-solid fa-gamepad",
-      "keywords": [
-        "Elden Ring",
-        "Sekiro",
-        "Dark Soul", 
-        "League of Legends"
-      ]
+      "keywords": ["Elden Ring", "Sekiro", "Dark Soul", "League of Legends"]
     }
   ],
   "references": [
